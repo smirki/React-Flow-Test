@@ -1,0 +1,25 @@
+{
+  "bob": {
+    "questions": [
+      {
+        "question": "Does Bob like sports?",
+        "followUps": ["What sports does Bob like?", "How often does Bob play sports?", "Who does Bob play sports with?"],
+        "term": "sports"
+      },
+      {
+        "question": "Does Bob play the guitar?",
+        "followUps": ["What type of guitar does Bob have?", "How often does Bob play the guitar?", "Who taught Bob to play guitar?"],
+        "term": "guitar"
+      }
+    ]
+  },
+  "peter": {
+    "questions": [
+      {
+        "question": "Does Peter have a dog?",
+        "followUps": ["What breed is Peter's dog?", "How old is Peter's dog?", "What's the name of Peter's dog?"],
+        "term": "dog"
+      }
+    ]
+  }
+}

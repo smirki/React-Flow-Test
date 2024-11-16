@@ -1,0 +1,141 @@
+Relio: Personal Relationship Management Made Easy
+
+What is it?
+
+Relio is your social autopilot for unforgettable connections.
+
+Relio is a personal relationship management tool that helps users maintain and strengthen their professional and personal connections. It features AI-powered reminders, sentiment analysis, and a timeline to help users schedule and prioritize their interactions with their network.
+
+Relio's advanced features include bullet point breakdowns of individuals with sentiment analysis to create conversational flowcharts and use clustering to find new discussion topics. It also has a user cloud feature, where users can group their contacts by family, friends, or professional relationships, to help them keep track of their different networks.
+
+Relio's goal is to simplify the process of nurturing personal connections and helping users tap into the full potential of their relationships.
+
+The basic features of Relio include:
+
+Automated reminders to reconnect with individuals.
+A task list to manage follow-up tasks and reminders.
+Contact profiles to store information about individuals, including work, family, gift ideas, relationships between contacts, activities done together, etc.
+A timeline to view upcoming contacts, so users can schedule dinners or coffees in advance.
+
+The advanced features of Relio include:
+
+Sentiment analysis to create conversational flowcharts and use clustering to find new discussion topics.
+Natural language processing (NLP) to understand the nature of descriptors, automatically giving reminders and adding them to the timeline.
+Dynamic timeline to add or remove "profiles" to different tasks as the year progresses, with categories such as networking, connections, and keeping strong.
+Stories of users on the side, allowing users to drag and drop users together and invite both to coffee at once.
+Tagging system to create internal user groups and reminders to talk to specific groups of contacts.
+
+
+User Case:
+
+Meet Sarah, a busy professional who works in the tech industry. She's always on the go, traveling to different cities for conferences and meetings. As she meets new people and expands her network, she finds it difficult to keep track of all her contacts and remember to stay in touch.
+
+That's when Sarah discovers Relio, a personal relationship management tool that helps her maintain and strengthen her professional and personal connections. With Relio's advanced features like automated reminders to reconnect with individuals, sentiment analysis to uncover new opportunities, and a tagging system to find the areas of her life that matter the most, Sarah can easily nurture her relationships and never miss an opportunity to connect with someone important.
+
+As Sarah travels to new cities and meets new people, she adds them to Relio and categorizes them by their profession or interests. Relio's user cloud feature allows her to keep track of different networks and prioritize her interactions with her contacts. She uses the timeline to schedule coffees, dinners, and other activities with her network, making sure she stays connected and continues to build strong relationships.
+
+Sarah also loves Relio's bullet point breakdowns of individuals with sentiment analysis. It helps her create conversational flowcharts and find new discussion topics, making it easy for her to keep the conversation flowing and make the most of her interactions.
+
+Thanks to Relio, Sarah is able to maintain and strengthen her professional and personal connections, even when she's constantly on the go. She's able to tap into the full potential of her relationships and continue to grow her network, all while managing her busy schedule with ease.
+
+How Relio Makes Money:
+
+Relio could use a subscription-based model to monetize its app. The basic features of Relio could be available for free, but users would need to subscribe to access advanced features, such as sentiment analysis, user clouds, and tagging systems. The subscription fee could be based on a monthly or yearly basis, depending on user preferences.
+
+In addition to the subscription-based model, Relio could also use affiliate marketing to generate additional revenue. By partnering with companies that offer products or services related to personal and professional networking, Relio could earn a commission for each user who purchases a product or service through its app.
+
+Relio could also offer targeted advertising to its users based on their network and interests. For example, a user who has a lot of connections in the technology industry might see ads for software products or industry conferences.
+
+Finally, Relio could consider data monetization as an additional revenue stream. By collecting and analyzing data about user behavior, Relio could sell anonymized user data to third-party companies for market research or other purposes. However, this would need to be done carefully to ensure user privacy and comply with data protection regulations.
+Relio: Your social autopilot for unforgettable connections.
+
+For people who want to maintain and strengthen their professional and personal connections. 
+
+
+Relio should: (basic features) -> MVP
+
+These would be our four tasks: 
+1. Send reminders when to reconnect with individuals
+2. Host tasks so "remind me in 2 weeks if i forget to email you" can be handled
+3. Store information about individuals ( work, family, gift ideas, relationships between contacts, activities done together etc)
+4. Maintain a timeline so you can actively see who you need to contact in the upcoming months so you can schedule dinners or coffees in advance
+
+Screens:
+Nodes - Manav
+Timeline, User Clouds - Ayush
+Reminders - Dhruv
+
+Advanced Features:
+1. Breakdown bullet point details of individuals with sentiment analysis to create conversational flowcharts and use clustering to find new discussion topics
+2. use nlp to understand nature of descriptors, so in the profile adding page you'd get a "remind john in 2 weeks about TPS reports" and it will automatically give u a reminder and add it to the timeline
+
+3. Create a timeline that adds or removes "profiles" to different tasks as the year progresses
+ --- ex. 3 task categories of networking, connections, keeping strong
+---- u can scroll through the timeline and it makes or removes people along the months like a timelines from a textbook
+
+4.  Stories of users on the side so you can drag and drop users together and when their connections match up you can invite both of them to coffee at once. 
+—->  potential idea: add a tagging system to create internal user groups so you can get reminded to talk to all your rock climbing friends at once
+
+Reused Design Elements:
+Omnibar to interact with AI
+Timeline
+Relio Exclusive: User Clouds
+A slider on a timeline populates and depopulates (with visibility) user profiles on separately grouped individuals.
+Family
+Friends
+Professional
+
+User Experience Process
+Competitor research
+Needfinding
+Design/usability goals (condensed from above)
+User personas
+User flow
+Wireframes
+Visual design
+High-fi prototype
+Usability testing
+Feedback and revisions
+Repeat steps 9 and 10 as needed
+
+Frameworks:
+CSS Framework to generate Mind Map 
+Canvas Framework
+HTML Templating Engine
+
+
+5 Random Usecases:
+You just met carter. Carter likes biking. You’re going biking this weekend | Relio:  You should invite Carter.
+
+
+Data Structures:
+Entities - Dogs, Family, Etc
+Professional
+John Smith: works at Company, interested in hiking and photography, married with two children
+Jane Doe: freelance writer, likes to travel, recently published an article in Forbes magazine
+Family
+John Smith: married to Sarah, has two children - a son named Jack and a daughter named Emily
+Jane Doe: single, has one sister who lives in Boston
+Friends
+John Smith: enjoys hiking, photography, and trying new restaurants; recently traveled to Iceland and took some amazing photos
+Jane Doe: likes to read, travel, and try new things; recently took a cooking class and learned how to make sushi
+Activities - Hobbies, Work, Travel
+Lunch with John Smith on March 1st: discussed upcoming project at work, talked about plans for hiking trip in April
+Coffee with Jane Doe on February 14th: caught up on personal news, discussed travel plans for the year
+Planned Activities - RED
+Dinner party on March 15th: guest list includes John Smith and his wife, Jane Doe, and two other couples
+Book club meeting on April 10th: John Smith and Jane Doe are both members
+
+
+
+
+
+
+Feature List ALL (Brainstorming):
+Maps integration with location data and activities.
+Map integration with hobbies
+Lil baby coming to town | Relio: you and Carter should take a trip down to watch it.
+
+Introducing Relio, the ultimate personal relationship management tool powered by AI technology. With Relio, you can easily nurture and maintain the relationships that matter the most to you and your network. Our app streamlines the process of keeping in touch with clients, partners, and colleagues, making it easy to stay connected, even when you're swamped with work. With features like automated reminders to reconnect with individuals, sentiment analysis to uncover new opportunities, and a tagging system to find the areas of your life that matter the most, Relio helps you turn your life connections into experiences that drive growth and success. With Relio, you'll be able to tap into the full potential of your relationships, and take yourself to new heights.
+
+Can you tell me all the features for relio
